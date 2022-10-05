@@ -51,7 +51,7 @@ GET https://vercel-badge-lastorder.vercel.app/api/ratelimit
 
 ## Deploying
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FLastorder-DC%2Fvercel-badge-lastorder%2Ftree%2Fmaster)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FLastorder-DC%2Fvercel-badge-lastorder%2Ftree%2Fmain)
 
 You can deploy your own Vercel instance of this project. In order to do that you must create a GitHub OAuth app and pass the Client ID and Client Secret as two environment variables. (respectively `ID` and `SECRET`)
 
