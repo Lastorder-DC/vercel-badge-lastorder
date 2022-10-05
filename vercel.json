@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://github.com/Lastorder-DC/vercel-badge-lastorder" }
+    { "source": "/", "destination": "https://github.com/Lastorder-DC/vercel-badge-lastorder#readme" }
   ],
   "functions": {
     "api/[owner]/[repo].ts": {
